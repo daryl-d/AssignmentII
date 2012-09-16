@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/home/daryl/AssignmentII/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2589434133.index
+3456671497.index
+1280474060.index
+3703194086.index
+2988116064.index
