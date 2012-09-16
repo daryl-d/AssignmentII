@@ -1,6 +1,13 @@
 *.class
-
 # Package Files #
 *.jar
 *.war
 *.ear
+# ignore eclipse files
+*.project
+*.settings
+*.classpath
+/.classpath
+/.settings
+/.project
+/Server
